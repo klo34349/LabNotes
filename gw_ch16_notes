@@ -1,0 +1,1 @@
+gcc -g -fno-stack-protector -z execstack -o overflowtest overflowtest.c.  //compile overflow.c 
